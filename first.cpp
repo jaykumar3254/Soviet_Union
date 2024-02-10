@@ -111,7 +111,7 @@ int main()
     cout<<"Hello World !";
     return 0;
 }*/
-/*
+
 //taxation for the sales 
 #include<iostream>
 
@@ -138,6 +138,3 @@ int main()
 
     return 0;
 }
-*/
-
-//
