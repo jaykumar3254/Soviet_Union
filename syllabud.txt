@@ -1,12 +1,12 @@
 https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/
 link for tutorial  syallabus
-
+//name spacing
 1 cpp veriables
 2 cpp datatypes (fandamentals)
 3 oprators in cpp
 4 basic input and output (io oprations )
-5 ddecision making statements (switch case . if ,if else (and types ))
-6 loopes 
+5 decision making statements (switch case . if ,if else (and types ))
+6 loopes {for , while , do while }
 7 functions 
 8 pointers and refrance 
 9 arrays 
@@ -29,11 +29,12 @@ link for tutorial  syallabus
 
 https://www.geeksforgeeks.org/data-structure-alignment-how-data-is-arranged-and-accessed-in-computer-memory/?ref=lbp
 link for tutorial  syallabus
+
 // data structure in c++
 
 1 introduction 
 2 types classification and applications 
-3 overview (liner data structure,herarchical)(graph , trie , segment tree , suffix tree )
+3 overview (liner data structure,herarchical)(graph , tree , segment tree , suffix tree )
 4 types of data structure (arrays , string , linked lists , stack , queue , tree data structure and algo , heap , hashing , graph , matrix )
 5 data structure alignment and how data is stored / arrengd 
 6 static vs dynamic 
